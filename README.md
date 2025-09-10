@@ -15,7 +15,7 @@ Git
 
 ### Installation instruction
 ```
-
+https://github.com/TaidaSleepy/assignment.git
 ```
 
 # Live Link
